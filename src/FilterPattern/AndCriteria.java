@@ -2,6 +2,7 @@ package FilterPattern;
 
 import java.util.List;
 
+// Filter Patterns
 public class AndCriteria implements Criteria {
 
 	private Criteria criteria;

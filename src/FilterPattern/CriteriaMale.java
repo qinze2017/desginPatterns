@@ -3,6 +3,7 @@ package FilterPattern;
 import java.util.ArrayList;
 import java.util.List;
 
+//Filter Patterns
 public class CriteriaMale implements Criteria {
 
 	@Override

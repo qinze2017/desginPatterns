@@ -3,6 +3,7 @@ package FilterPattern;
 import java.util.ArrayList;
 import java.util.List;
 
+//Filter Patterns
 public class CriteriaPatternDemo {
 	public static void main(String[] args) {
 		List<Person> persons = new ArrayList<Person>();

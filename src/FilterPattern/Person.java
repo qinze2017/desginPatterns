@@ -1,5 +1,6 @@
 package FilterPattern;
 
+//Filter Patterns
 public class Person {
 
 	private String name;
