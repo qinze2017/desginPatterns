@@ -1,5 +1,6 @@
 package BuilderPatterns;
 
+//Builder Patterns
 public class Coke extends ColdDrink {
 
 	@Override
