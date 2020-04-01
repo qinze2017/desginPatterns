@@ -1,5 +1,6 @@
 package BridgePattern;
 
+//Bridge Patterns
 public abstract class Shape {
 	protected DrawAPI drawAPI;
 

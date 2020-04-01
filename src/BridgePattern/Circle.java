@@ -1,5 +1,6 @@
 package BridgePattern;
 
+//Bridge Patterns
 public class Circle extends Shape {
 
 	private int x, y, radius;
