@@ -1,5 +1,6 @@
 package AbstractFactoryPatterns;
 
+//AbstractFactory Patterns
 public class RoundedSquare implements Shape {
 	@Override
 	public void draw() {

@@ -1,5 +1,6 @@
 package AbstractFactoryPatterns;
 
+//AbstractFactory Patterns
 public class RoundedShapeFactory extends AbstractFactory {
 	@Override
 	public Shape getShape(String shapeType) {
