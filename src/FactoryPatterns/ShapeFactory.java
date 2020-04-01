@@ -1,5 +1,6 @@
 package FactoryPatterns;
 
+//Factory Patterns
 public class ShapeFactory {
 	// use getShape method to get object of type shape
 	public Shape getShape(String shapeType) {

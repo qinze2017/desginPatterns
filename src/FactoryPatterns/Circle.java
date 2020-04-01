@@ -1,5 +1,6 @@
 package FactoryPatterns;
 
+// Factory Patterns
 public class Circle implements Shape {
 	@Override
 	public void draw() {
