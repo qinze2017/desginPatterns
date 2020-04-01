@@ -1,5 +1,6 @@
 package PrototypePatterns;
 
+//Prototype Patterns
 public class Circle extends Shape {
 
 	public Circle() {

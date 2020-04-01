@@ -1,5 +1,6 @@
 package PrototypePatterns;
 
+//Prototype Patterns
 public class Rectangle extends Shape {
 
 	public Rectangle() {

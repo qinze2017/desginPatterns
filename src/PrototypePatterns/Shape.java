@@ -1,5 +1,6 @@
 package PrototypePatterns;
 
+//Prototype Patterns
 public abstract class Shape implements Cloneable {
 
 	private String id;

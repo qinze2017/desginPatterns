@@ -1,5 +1,6 @@
 package PrototypePatterns;
 
+//Prototype Patterns
 public class PrototypePatternDemo {
 	public static void main(String[] args) {
 		ShapeCache.loadCache();

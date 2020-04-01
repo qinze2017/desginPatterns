@@ -2,6 +2,7 @@ package PrototypePatterns;
 
 import java.util.Hashtable;
 
+//Prototype Patterns
 public class ShapeCache {
 
 	private static Hashtable<String, Shape> shapeMap = new Hashtable<String, Shape>();

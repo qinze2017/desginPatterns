@@ -1,5 +1,6 @@
 package PrototypePatterns;
 
+//Prototype Patterns
 public class Square extends Shape {
 
 	public Square() {
